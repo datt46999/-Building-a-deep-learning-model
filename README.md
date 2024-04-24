@@ -9,11 +9,13 @@
 # # # Accuracy when run model:
 
 
+
   ![image](https://github.com/datt46999/-Building-a-deep-learning-model/assets/125117718/67bc9a6f-5330-4f02-a5b3-7e3c1c604c77)
 
  ![image](https://github.com/datt46999/-Building-a-deep-learning-model/assets/125117718/3783b032-5103-4fb8-853a-35612914146d)
 
 ### Loss 
+
 ![image](https://github.com/datt46999/-Building-a-deep-learning-model/assets/125117718/4b78e697-dc72-4514-ad52-2ef3d1acca42)
 
 
