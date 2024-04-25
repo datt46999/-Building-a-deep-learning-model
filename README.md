@@ -29,7 +29,7 @@ Environment: Google Colab
 ![image](https://github.com/datt46999/-Building-a-deep-learning-model/assets/125117718/4b78e697-dc72-4514-ad52-2ef3d1acca42)
 
 
-### Result value of model
+### Result of model
 ![image](https://github.com/datt46999/-Building-a-deep-learning-model/assets/125117718/a8da07d6-d093-4bed-851c-da114addb6c8)
 ![image](https://github.com/datt46999/-Building-a-deep-learning-model/assets/125117718/d7ccc94c-f5cb-4c24-b20a-251fcc411293)
 ![image](https://github.com/datt46999/-Building-a-deep-learning-model/assets/125117718/dfa93b79-2b25-4713-877a-49fc08610e15)
