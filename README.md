@@ -5,6 +5,8 @@ Language: Python.
 Library: cv2.numpy, matplotplib, keras, tensorflow, os.
 
 Environment: Google Colab
+# Note:
+You should setting the path correct before running the code.
 
 
 ## Stetting and run code:
@@ -13,6 +15,7 @@ Environment: Google Colab
 + Step 2:Push fodel in Google Colab.
   
 + Step 3:Run file main.ipynb.
+
    
 # Screenshots
 
