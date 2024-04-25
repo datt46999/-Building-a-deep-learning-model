@@ -1,5 +1,5 @@
 # Building a deep learning model for the number recognition problem.
-## Environment:
+## About this model:
 Language: Python.
 
 Library: cv2.numpy, matplotplib, keras, tensorflow, os.
