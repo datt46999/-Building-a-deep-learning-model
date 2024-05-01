@@ -1,5 +1,8 @@
 # AI Project
-
+# Description
+ Description: Model building in Google Colab with 10000 dataset for testing
+ and 60000 for training. Using CNN model to start building and check result
+ after building it using picture have number from 0 to 9.
 # Building a deep learning model for the number recognition problem.
 ## About this model:
 Language: Python.
